@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Encuentra a tu profesor</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="menu">
+			<ul>
+				<li><a href="iniciar-sesion.html"  title="">Iniciar sesion</a></li>
+				<li><a href="#" accesskey="3" title="">Acerca de...</a></li>
+			</ul>
+		</div>
+		<div id="logo">
+			<h1><a href="#">ENCUENTRA A TU PROFESOR</a></h1>
+			<br>
+			<img src="profesores1.png" width="550px" height="387px"/>
+			<br>
+			<br>
+			<p><strong>Encuentra a tu profesor</strong>, es una plataforma que permite contactar a profesores para impartir clases particulares.  Tu puedes encontrar al profesor que mejor se adapte a lo que necesitas.</p>
+	    </div>
+	</div>
+</div>
+<div id="wrapper1">
+	<div id="welcome" class="container">
+		<div class="content">
+			<h1>Registrate como PROFESOR o como USUARIO</h1>
+			<br>
+			<a href="registro2.html" class="button">¿Eres profesor? <br> Registrate</a> </div>
+			<br>
+			<p>Registrate y recibe solicitudes de nuestros usuarios.</p>
+			<br>
+			<a href="registro1.html" class="button">¿Buscas un profesor? <br>Registrate</a> 
+			<br>
+			<br>
+		<p>Para encontrar al profesor que se adapte a tus necesidades, registrate y selecciona al mejor.</p>
+	</div>
+	</div>
+<div id="wrapper1">
+	<div id="footer" class="container">
+		<div>
+			<header class="title">
+				<h2>Encuentra a tu profesor</h2>
+			</header>
+			<ul class="contact">
+				<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
+				<li><a href="#" class="icon icon-facebook"><span></span></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="copyright">
+	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+</body>
+</html>
